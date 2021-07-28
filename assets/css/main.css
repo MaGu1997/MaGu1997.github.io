@@ -1963,10 +1963,10 @@ ol li {
   content: "";
   position: absolute;
   bottom: 0;
-  right: 50%;
-  width: 20px;
-  height: 4px;
-  border-radius: 50% 20% / 10% 40%;;
+  right: 60%;
+  width: 30%;
+  height: 8px;
+  border-radius: 0% 100% 84% 16% / 52% 0% 100% 48%;;
   background-color: #2ecc71;
   transition: 0.5s;
 } */
@@ -1975,8 +1975,8 @@ ol li {
   content: "";
   position: absolute;
   bottom: 0;
-  left: 4%;
-  width: 50%;
+  left: 1%;
+  width: 30%;
   height: 8px;
   border-radius: 0% 100% 84% 16% / 52% 0% 100% 48%;
   background-color: #2ecc71;
