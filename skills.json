@@ -1,0 +1,87 @@
+[
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Typescript",
+        "icon": "https://icons8.com/icon/Xf1sHBmY73hA/typescript"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://icons8.com/icon/39292/jenkins"
+    },
+    {
+        "name": "RPA",
+        "icon": "https://icons8.com/icon/wj64HuimhBit/rpa"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "AngularJS",
+        "icon": "https://icons8.com/icon/6SWtW8hxZWSo/angular"
+    },
+    {
+        "name": "VueJS",
+        "icon": "https://icons8.com/icon/rY6agKizO9eb/vue-js"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Selenium",
+        "icon": "https://icons8.com/icon/TLI9oiMzpREF/selenium"
+    },
+    {
+        "name": "Datadog",
+        "icon": "https://drive.google.com/file/d/1CK2w7CGplyx9HLWJ_VoOtbyaVJf5DJD2/view?usp=sharing"
+    },
+    {
+        "name": "Selenium",
+        "icon": "https://icons8.com/icon/TLI9oiMzpREF/selenium"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }   
+]
