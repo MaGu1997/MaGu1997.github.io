@@ -5,13 +5,12 @@
     },
     {
         "name": "Typescript",
-        "icon": "https://icons8.com/icon/Xf1sHBmY73hA/typescript"
+        "icon": "https://img.icons8.com/?size=80&id=9MR7wJXKcELM&format=png"
     },
     {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
-
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
@@ -22,11 +21,11 @@
     },
     {
         "name": "Jenkins",
-        "icon": "https://icons8.com/icon/39292/jenkins"
+        "icon": "https://img.icons8.com/?size=48&id=39292&format=png"
     },
     {
         "name": "RPA",
-        "icon": "https://icons8.com/icon/wj64HuimhBit/rpa"
+        "icon": "https://img.icons8.com/?size=80&id=wj64HuimhBit&format=png"
     },
     {
         "name": "ReactJS",
@@ -34,11 +33,11 @@
     },
     {
         "name": "AngularJS",
-        "icon": "https://icons8.com/icon/6SWtW8hxZWSo/angular"
+        "icon": "https://img.icons8.com/?size=48&id=71257&format=png"
     },
     {
         "name": "VueJS",
-        "icon": "https://icons8.com/icon/rY6agKizO9eb/vue-js"
+        "icon": "https://img.icons8.com/?size=48&id=BUnExfsRs3CW&format=png"
     },
     {
         "name": "NodeJS",
@@ -46,15 +45,7 @@
     },
     {
         "name": "Selenium",
-        "icon": "https://icons8.com/icon/TLI9oiMzpREF/selenium"
-    },
-    {
-        "name": "Datadog",
-        "icon": "https://drive.google.com/file/d/1CK2w7CGplyx9HLWJ_VoOtbyaVJf5DJD2/view?usp=sharing"
-    },
-    {
-        "name": "Selenium",
-        "icon": "https://icons8.com/icon/TLI9oiMzpREF/selenium"
+        "icon": "https://img.icons8.com/?size=80&id=TLI9oiMzpREF&format=png"
     },
     {
         "name": "MongoDB",
