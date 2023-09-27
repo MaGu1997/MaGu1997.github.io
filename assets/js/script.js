@@ -39,9 +39,9 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("2JJ1GNOr2Iwh_awA6");
+        emailjs.init("user_2JJ1GNOr2Iwh_awA6");
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+        emailjs.sendForm('service_ct1z6ak','template_contact', '#contact-form')
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
                 document.getElementById("contact-form").reset();
@@ -68,12 +68,10 @@ var typed = new Typed(".typing-text", {
 // <!-- typed js effect ends -->
 
 async function fetchData(type = "skills") {
-    let response
+    let response;
     type === "skills" ?
-        response = await fetch("skills.json")
-        :
-        response = await fetch("./projects/projects.json")
-    const data = await response.json();
+        response = await fetch("skills.json") : await fetch("project.json")
+        const data = await response.json();
     return data;
 }
 
@@ -136,10 +134,6 @@ function showProjects(projects) {
 
 fetchData().then(data => {
     showSkills(data);
-});
-
-fetchData("projects").then(data => {
-    showProjects(data);
 });
 
 // <!-- tilt js effect starts -->
