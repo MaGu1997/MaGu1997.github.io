@@ -150,7 +150,7 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 });
 // <!-- tilt js effect ends -->
 
-// disable developer mode
+// // disable developer mode
 document.onkeydown = function (e) {
   if (e.keyCode == 123) {
     return false;

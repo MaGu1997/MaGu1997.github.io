@@ -20,8 +20,36 @@
     "icon": "https://img.icons8.com/color/48/redis--v1.png"
   },
   {
-    "name": "VueJS",
-    "icon": "https://img.icons8.com/?size=48&id=BUnExfsRs3CW&format=png"
+    "name": "Webpack",
+    "icon": "https://img.icons8.com/color/48/000000/webpack.png"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "https://img.icons8.com/color/48/000000/tailwindcss.png"
+  },
+  {
+    "name": "Material UI",
+    "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+  },
+  {
+    "name": "Firebase",
+    "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+  },
+  {
+    "name": "Figma",
+    "icon": "https://img.icons8.com/color/48/000000/figma--v1.png"
+  },
+  {
+    "name": "Django",
+    "icon": "https://img.icons8.com/color/48/000000/django.png"
   },
   {
     "name": "Python",
